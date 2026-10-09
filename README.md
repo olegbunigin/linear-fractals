@@ -1,5 +1,7 @@
 # Линейные фракталы
 
+![Example](https://scp-wiki.wikidot.com/scp-001)
+
 ---
 
 ## О проекте
