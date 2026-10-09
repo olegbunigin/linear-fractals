@@ -1,6 +1,6 @@
 # Линейные фракталы
 
-![Example](Mandel_zoom_00_mandelbrot_set.png)
+![Example](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/1280px-Mandel_zoom_00_mandelbrot_set.jpg?utm_source=ru.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ---
 
