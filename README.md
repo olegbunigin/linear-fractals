@@ -1,6 +1,6 @@
 # Линейные фракталы
 
-![Example](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fi-keep-seeing-this-image-what-the-heck-is-it-supposed-to-be-v0-bzek59g62syf1.png%3Fwidth%3D1024%26format%3Dpng%26auto%3Dwebp%26s%3D8ff0afe46297899c899ea5f58ce7e8e000d800d2)
+![Example]([https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fi-keep-seeing-this-image-what-the-heck-is-it-supposed-to-be-v0-bzek59g62syf1.png%3Fwidth%3D1024%26format%3Dpng%26auto%3Dwebp%26s%3D8ff0afe46297899c899ea5f58ce7e8e000d800d2](https://ru.wikipedia.org/wiki/Фрактал#/media/Файл:Mandel_zoom_00_mandelbrot_set.jpg))
 
 ---
 
